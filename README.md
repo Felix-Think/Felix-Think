@@ -7,7 +7,7 @@
 - 😄 Pronouns: Ultra man
 - ⚡ Fun fact: I enjoy teasing Windown User
 ##  🫥My Linux
-<img src="https://github.com/Felix-Think/Felix-Think/blob/main/Screenshot_20-Oct_00-53-30_27984.png/" width="1024px" heiht="512px"/>
+<img src="https://github.com/Felix-Think/Felix-Think/blob/main/Screenshot_20-Oct_00-53-30_27984.png/" width="1024px" heiht="700px"/>
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Huỳnh Văn Thịnh) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/NKNk2qD4EB) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/huynhvan.thinh.144) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/th%E1%BB%8Bnh-hu%E1%BB%B3nh-v%C4%83n-682b4827b/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Informal-Ebb-9710/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/27887466/thinh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@V%C4%83nThinhHu%E1%BB%B3nh-o3f) 
@@ -26,7 +26,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### Dev Meme
-<img src="https://github.com/Felix-Think/Felix-Think/blob/main/Desktop-Of-The-Year-funny-linux-memes.jpeg/" width="512px"/>
+<img src="https://github.com/Felix-Think/Felix-Think/blob/main/Desktop-Of-The-Year-funny-linux-memes.jpeg/" width="1024px" height="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Felix-Think&icon=9&color=12)](https://visitcount.itsvg.in)
