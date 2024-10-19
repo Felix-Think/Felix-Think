@@ -25,7 +25,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512000px"/>
+<img src="https://www.codeitbro.in/wp-content/uploads/2024/08/Desktop-Of-The-Year-funny-linux-memes.jpeg/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Felix-Think&icon=9&color=12)](https://visitcount.itsvg.in)
