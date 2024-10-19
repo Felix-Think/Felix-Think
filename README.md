@@ -25,7 +25,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂Random Dev Meme
-<img src="/" width="512px"/>
+<img src="https://github.com/Felix-Think/Felix-Think/blob/main/Screenshot_20-Oct_00-53-30_27984.png/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Felix-Think&icon=9&color=12)](https://visitcount.itsvg.in)
